@@ -23,3 +23,8 @@ This application can be built and executed on QEMU as follows:
 
 To build for another board, change "qemu_x86" above to that board's name.
 
+
+Build Locally
+*************
+
+
